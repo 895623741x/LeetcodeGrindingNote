@@ -1,6 +1,6 @@
 package DynamicProgramming;
 
-public class DecodeWays97 {
+public class DecodeWays91 {
 
     public int numDecodings(String s) {
         // dp is going to store the number of ways to decode the string of length X. dp[0] represents the number
