@@ -1,6 +1,5 @@
 package DataStructure;
 
-import java.sql.Array;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -66,7 +65,7 @@ public class TheSkylineProblem218 {
                 list.add(point);
                 list.add(currentHeight);
                 res.add(list);
-                prev = currentHeight
+                prev = currentHeight;
             }
 
         }
